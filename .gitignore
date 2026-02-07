@@ -1,0 +1,6 @@
+.credentials.json
+settings.local.json
+statsig/
+projects/
+todos/
+*.log
