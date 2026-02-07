@@ -1,0 +1,19 @@
+{
+  "enabledPlugins": {
+    "pyright-lsp@claude-plugins-official": true,
+    "superpowers@claude-plugins-official": true,
+    "claude-md-management@claude-plugins-official": false,
+    "inteligenai-code-cleanup@inteligenai-marketplace": true,
+    "inteligenai-codebase-review@inteligenai-marketplace": true,
+    "inteligenai-doc-research@inteligenai-marketplace": true,
+    "inteligenai-doc-update@inteligenai-marketplace": true,
+    "inteligenai-pptx-reader@inteligenai-marketplace": true,
+    "inteligenai-sync-repo@inteligenai-marketplace": true
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "powershell -NoProfile -ExecutionPolicy Bypass -File C:\\Users\\SwatiJainGoel\\.claude\\statusline.ps1",
+    "padding": 0
+  },
+  "autoUpdatesChannel": "latest"
+}
